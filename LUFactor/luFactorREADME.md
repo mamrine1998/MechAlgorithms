@@ -1,6 +1,6 @@
 # luFactor.m
 
-*Developed by: Marcus Amrine*
+*Developed by: Marcus Amrine*...
 *Created on: April 1st, 2019*
 
 ## Function
