@@ -1,7 +1,6 @@
 # Bisect.m
 
-*Created on:
-Developed by: Marcus Amrine*
+*Developed by: Marcus Amrine*
 
 
 ## Function
