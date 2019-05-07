@@ -5,7 +5,7 @@
 
 ## Function
 
-This algorithm preforms gaussian elimination to decompose some nxn matrix A into a lower and upper triangular matrix while tracking and recording any pivoting in a matrix [P].
+This algorithm preforms gaussian elimination to decompose some nxn matrix [A] into a lower [L] and upper [U] triangular matrix while tracking and recording any pivoting in a matrix [P]. By multiply the matrices [L][U][P], the resulting matrix will give the user back the original matrix [A].
 
 **Inputs**
   1. func: User defined function.
