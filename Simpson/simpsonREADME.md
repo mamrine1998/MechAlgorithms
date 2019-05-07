@@ -4,6 +4,8 @@
 
 *Created on: April 19th, 2019*
 
+---
+
 ## Function
 
 This algorithm uses Simpson's 1/3 rule to integrate tabulated data, with an even number of intervals. If the data does not have an even number of intervals, the algorithm implements Simpson's 1/3 rule along with a sinlge application of the trapizodial rule over the last interval, to find the integrated value.
@@ -14,6 +16,8 @@ This algorithm uses Simpson's 1/3 rule to integrate tabulated data, with an even
   
 **Outputs**
   1. I: The calculated value of the the integral.
+  
+  ---
   
 ### Limitations
 
