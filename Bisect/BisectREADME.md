@@ -1,4 +1,4 @@
-# Bisect.m
+# bisect.m
 
 *Developed by: Marcus Amrine*
 
