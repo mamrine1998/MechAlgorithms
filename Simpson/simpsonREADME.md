@@ -1,7 +1,7 @@
 # simpson.m
 
-*Developed by: Marcus Amrine* --
-*Created on: April 19th, 2019*
+>Developed by: Marcus Amrine
+>Created on: April 19th, 2019
 
 ---
 
