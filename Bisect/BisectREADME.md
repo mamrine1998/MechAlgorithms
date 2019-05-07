@@ -21,4 +21,5 @@ This algorithm implements the bisection root finding method. Given a function th
   4. iter: This tells the user how many iterations were preformed.
   
 **Limitations**
+
 This function is not capable of finding the true root of a function as each iterartion only finds an improved guess based on the last estimation.
