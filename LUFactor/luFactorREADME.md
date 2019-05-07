@@ -4,6 +4,8 @@
 
 *Created on: April 1st, 2019*
 
+---
+
 ## Function
 
 This algorithm preforms gaussian elimination to decompose some square matrix [A] into a lower [L] and upper [U] triangular matrix while tracking and recording any pivoting in a matrix [P]. By multiply the matrices [L][U][P], the resulting matrix will give the user back the original matrix [A].
@@ -16,4 +18,6 @@ This algorithm preforms gaussian elimination to decompose some square matrix [A]
   2. U: This is the upper triangular matrix that records the changes to [A] after pivitoing and elimination occur.
   3. P: This is an identity matrix, equal to the size of [A], that moves the 1 values on the diagonal to match pivioting.
   
-**Limitations**
+---
+  
+### Limitations
