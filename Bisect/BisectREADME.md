@@ -19,3 +19,6 @@ This algorithm implements the bisection root finding method. Given a function th
   2. fx: This is the value of the user's function evaluated at the root.
   3. ea: This is the percent relative error that is associated with the calculations preformed to find the root.
   4. iter: This tells the user how many iterations were preformed.
+  
+**Limitations**
+This function is not capable of finding the true root of a function as each iterartion only finds an improved guess based on the last estimation.
